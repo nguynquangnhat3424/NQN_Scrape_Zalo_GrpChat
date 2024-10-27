@@ -1,5 +1,5 @@
 # NQN_Scrape_Zalo_GrpChat
-*Objective:*  
+**Objective:**  
 To compile a summary of investment opinions from various brokers through Zalo chat rooms.
 
 ## Implementation Steps:
